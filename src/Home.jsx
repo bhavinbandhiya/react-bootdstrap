@@ -9,7 +9,8 @@ const Home = () => {
                 name="Grow Your business with"
                 imgsrc={web}
                 visit="/service"
-                btname="Get Started" />
+                btname="Get Started"
+                hname=" Bhavin Bandhiya" />
         </>
   );
 };
